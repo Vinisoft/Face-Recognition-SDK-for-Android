@@ -7,3 +7,6 @@ Please contact with us at bachpv@vinisoft.com.vn if needed.
 Please visit our application use Face Recognize with OPENCV ( Opensource Computer Vision):
 
 https://play.google.com/store/apps/details?id=com.vinisoft.opencv.applock.facelock
+
+===============================
+
