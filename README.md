@@ -8,5 +8,6 @@ Please visit our application use Face Recognize with OPENCV ( Opensource Compute
 
 https://play.google.com/store/apps/details?id=com.vinisoft.opencv.applock.facelock
 
+https://play.google.com/store/apps/developer?id=Vinisoft
 ===============================
 
