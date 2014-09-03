@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/idRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.vinisoft.facesdk.custom.CameraView
+            android:id="@+id/surface"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/idText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="#66ff0000"
+            android:gravity="center_horizontal"
+            android:maxLines="2"
+            android:padding="5dp"
+            android:text=""
+            android:textColor="#ffffff"
+            android:textSize="@dimen/textNormal"
+            android:textStyle="normal" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btnStartTraining"
+                android:layout_width="@dimen/train_btn_W"
+                android:layout_height="@dimen/train_btn_H"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/bg_btn_train"
+                android:paddingLeft="5.0dp"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/textNormal" />
+        </LinearLayout>
+    </FrameLayout>
+
+</RelativeLayout>

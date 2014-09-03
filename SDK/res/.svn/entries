@@ -1,0 +1,85 @@
+10
+
+dir
+40
+http://192.168.52.40/svn-repo/P019_FaceSDK/SDK/res
+http://192.168.52.40/svn-repo/P019_FaceSDK
+
+
+
+2014-09-01T08:35:12.170397Z
+30
+bachpv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ef7c647c-ce7b-4fad-96b0-96b8aadcb7ef
+
+drawable-ldpi
+dir
+
+values-v14
+dir
+
+drawable-mdpi
+dir
+
+values-vi
+dir
+
+layout
+dir
+
+values-xlarge
+dir
+
+drawable
+dir
+
+drawable-xxhdpi
+dir
+
+values-normal
+dir
+
+values-large
+dir
+
+values-ja
+dir
+
+drawable-xhdpi
+dir
+
+values
+dir
+
+values-sw600dp
+dir
+
+xml
+dir
+
+values-sw720dp
+dir
+
+drawable-hdpi
+dir
+
+values-v11
+dir
+
+values-small
+dir
+

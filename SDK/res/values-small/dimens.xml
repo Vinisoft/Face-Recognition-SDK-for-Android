@@ -1,0 +1,34 @@
+<resources>
+
+    <dimen name="tvTime_marginTop">10dp</dimen>
+    <dimen name="tvTime_size">40sp</dimen>
+    <dimen name="tvDate_marginTop">-5dp</dimen>
+    <dimen name="tvDate_size">15sp</dimen>
+    <dimen name="area_unlock_size_width">200dp</dimen>
+    <dimen name="area_unlock_size_height">323dp</dimen>
+    <!-- Text common -->
+    <dimen name="textNormal">16sp</dimen>
+    <dimen name="textSamll">13sp</dimen>
+    
+    <!-- Lock Screen -->
+    <dimen name="btnSwitch_W">109dp</dimen>
+    <dimen name="btnSwitch_H">49dp</dimen>
+    <dimen name="logoW">78dp</dimen>
+    <dimen name="logoH">96.5dp</dimen>
+    <dimen name="logo_margin_top">10dp</dimen>
+    <dimen name="clockW">25dp</dimen>
+    <dimen name="clockH">25dp</dimen>
+
+    <!-- About Screen -->
+
+    <dimen name="dialoglogoW">78dp</dimen>
+    <dimen name="dialoglogoH">96.5dp</dimen>
+    <dimen name="dialog_logo_margin_top">50dp</dimen>
+    <dimen name="dialog_tv1_margin_top">190.0dp</dimen>
+    <dimen name="dialog_tv2_margin_top">210.0dp</dimen>
+    
+    <!-- Training Screen -->
+    <dimen name="train_btn_W">150dp</dimen>
+    <dimen name="train_btn_H">55dp</dimen>
+    
+</resources>

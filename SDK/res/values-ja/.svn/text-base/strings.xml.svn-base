@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FaceSDK Demo</string>
+    <string name="activity_setting_title">設定</string>
+    <string name="activity_training_title">顔認識トレーニング</string>
+    <string name="date_format" formatted="false">%d-%d-%d（%s）</string>
+    <string name="time_format">HH:mm</string>
+    <string name="unlock">アンロック</string>
+    <string name="input_your_pin">PINコード入力</string>
+    <string name="btn_add_face">画像追加</string>
+    <string name="btn_training">トレーニング</string>
+    <string name="btn_clear_faces">データ削除</string>
+    <string name="training">トレーニング中</string>
+    <string name="clearing">削除中</string>
+    <string name="training_success">トレーニングに成功しました。アプリがあなたの顔を覚えました。</string>
+    <string name="training_faild">トレーニングに失敗しました。</string>
+    <string name="clear_success">削除しました。</string>
+    <string name="clear_faild">削除に失敗しました。</string>
+    <string name="training_not_complete">トレーニングに失敗しました。再度試してください</string>
+    <string name="pref_prepare_title">準備</string>
+    <string name="pref_prepare_training_summary">顔認識トレーニング</string>
+    <string name="pref_prepare_training_title">トレーニング</string>
+    <string name="pref_setting_title">画面ロック設定</string>
+    <string name="pref_addition_title">付加情報</string>
+    <string name="pref_addition_lockapps_summary">保護対象アプリを選ぶ</string>
+    <string name="pref_addition_lockapps_title">アプリロック</string>
+    <string name="pref_addition_about_summary">Vinisoftについて</string>
+    <string name="pref_addition_about_title">Vinisoft</string>
+    <string name="pref_level_title">セキュリティレベル</string>
+    <string name="pref_level_summary">レベルが強ければ強いほど認識に時間がかかります。</string>
+
+    <!-- Update 19/05/2014 -->
+    <string name="pref_license_title">ライセンス</string>
+    <string name="pref_license_summary"></string>
+    <string name="pref_vote_title"><![CDATA[<b><font color="#ff0000">See application use SDK</font></b>]]></string>
+    <string name="pref_vote_summary"></string>
+    <string name="pref_summary_complete"><![CDATA[<font color="#094dfb">完了</font>]]></string>
+
+</resources>

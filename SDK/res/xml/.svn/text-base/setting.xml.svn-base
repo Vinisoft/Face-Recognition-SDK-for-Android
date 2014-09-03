@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout="@layout/activity_setting" >
+
+    <PreferenceCategory android:title="@string/pref_prepare_title" >
+        <Preference
+            android:key="prefTraining"
+            android:summary="@string/pref_prepare_training_summary"
+            android:title="@string/pref_prepare_training_title" />
+
+        <ListPreference
+            android:defaultValue="100"
+            android:entries="@array/listArray"
+            android:entryValues="@array/listValues"
+            android:key="prefLevel"
+            android:summary="@string/pref_level_summary"
+            android:title="@string/pref_level_title" />
+
+        <Preference
+            android:key="prefTest"
+            android:summary="@string/pref_prepare_test_summary"
+            android:title="@string/pref_prepare_test_title" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:enabled="true"
+        android:key="catAddition"
+        android:title="@string/pref_addition_title" >
+        <Preference
+            android:key="prefAbout"
+            android:summary="@string/pref_addition_about_summary"
+            android:title="@string/pref_addition_about_title" />
+        <Preference
+            android:key="prefVote"
+            android:summary="@string/pref_vote_summary"
+            android:title="@string/pref_vote_title" />
+        <Preference
+            android:key="prefLicense"
+            android:summary="@string/pref_license_summary"
+            android:title="@string/pref_license_title" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

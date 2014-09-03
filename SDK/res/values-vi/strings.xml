@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FaceSDK Demo</string>
+    <string name="activity_setting_title">Cài đặt ứng dụng</string>
+    <string name="activity_training_title">Huấn luyện máy</string>
+    <string name="date_format" formatted="false">%d-%d-%d（%s）</string>
+    <string name="time_format">HH:mm</string>
+    <string name="unlock">Mở khóa</string>
+    <string name="btn_training">Huấn luyện</string>
+    <string name="btn_clear_faces">Xóa dữ liệu</string>
+    <string name="training">Đang huấn luyện...</string>
+    <string name="clearing">Đang xóa...</string>
+    <string name="training_success">Huấn luyện thành công! Ứng dụng đã nhớ mặt bạn.</string>
+    <string name="training_faild">Huấn luyện thất bại!</string>
+    <string name="clear_success">Đã xóa xong!</string>
+    <string name="clear_faild">Xóa thất bại!</string>
+    <string name="training_not_complete">Huấn luyện thất bại, hãy thử lại!</string>
+    <string name="pref_prepare_title">Chuẩn bị</string>
+    <string name="pref_prepare_training_summary">Huấn luyện nhận dạng</string>
+    <string name="pref_prepare_training_title">Huấn luyện</string>
+    <string name="pref_addition_title">Thông tin thêm</string>
+    <string name="pref_addition_about_summary">Giới thiệu về Vinisoft</string>
+    <string name="pref_addition_about_title">Vinisoft</string>
+    <string name="pref_level_title">Mức độ bảo mật</string>
+    <string name="pref_level_summary">Bảo mật càng cao thì tốn thời gian nhận dạng</string>
+
+    <!-- Update 19/05/2014 -->
+    <string name="pref_license_title">License</string>
+    <string name="pref_license_summary"></string>
+    <string name="pref_vote_title"><![CDATA[<b><font color="#ff0000">Xem ứng dụng dùng Face SDK</font></b>]]></string>
+    <string name="pref_vote_summary"></string>
+    <string name="pref_summary_complete"><![CDATA[<font color="#094dfb">Xong</font>]]></string>
+
+</resources>
