@@ -11,3 +11,6 @@ https://play.google.com/store/apps/details?id=com.vinisoft.opencv.applock.facelo
 https://play.google.com/store/apps/developer?id=Vinisoft
 ===============================
 
+![](https://github.com/Vinisoft/Face-Recognizer-SDK-for-Android/blob/master/train.png)
+![](https://github.com/Vinisoft/Face-Recognizer-SDK-for-Android/blob/master/test.png)
+![](https://github.com/Vinisoft/Face-Recognizer-SDK-for-Android/blob/master/setting.png)
