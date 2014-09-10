@@ -6,7 +6,7 @@ Please contact with us at bachpv@vinisoft.com.vn if needed.
 
 NOTE: SDK will be out of date at the end of each year. I will increase the limit time for 1 year from that time.
 
-Please visit our application use Face Recognize with OPENCV ( Opensource Computer Vision):
+Please visit our application use Face Recognition with OPENCV ( Opensource Computer Vision):
 
 https://play.google.com/store/apps/details?id=com.vinisoft.opencv.applock.facelock
 
