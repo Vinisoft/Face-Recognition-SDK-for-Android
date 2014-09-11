@@ -1,10 +1,7 @@
 Face-Recognizer-SDK-for-Android
 ===============================
 
-We are working to build Face Recognizer SDK for Android. We will publish it soon.
-Please contact with us at bachpv@vinisoft.com.vn if needed. 
-
-NOTE: SDK will be out of date at the end of each year. I will increase the limit time for 1 year from that time. You must be download and update new SDK to your application. If you need a full version without limit of time, please contact with us.
+NOTE: SDK will be out of date at the end of each year. I will increase the limit time for 1 year from that time. You must be download and update new SDK for your application. If you need a full version without limit of time, please contact with us at bachpv@vinisoft.com.vn.
 
 Please visit our application use Face Recognition with OPENCV ( Opensource Computer Vision):
 
