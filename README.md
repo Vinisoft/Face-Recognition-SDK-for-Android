@@ -13,6 +13,8 @@ Add library project (Face SDK) to Sample.
 
 Clearn and Build for both projects SDK and Sample.
 
+ABOUT US:
+
 Please visit our application use Face Recognition with OPENCV ( Opensource Computer Vision):
 
 https://play.google.com/store/apps/details?id=com.vinisoft.opencv.applock.facelock
