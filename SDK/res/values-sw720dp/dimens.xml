@@ -1,24 +1,11 @@
 <resources>
 
-    <dimen name="tvTime_marginTop">10dp</dimen>
-    <dimen name="tvTime_size">60sp</dimen>
-    <dimen name="tvDate_marginTop">-5dp</dimen>
-    <dimen name="tvDate_size">22sp</dimen>
     <dimen name="area_unlock_size_width">250dp</dimen>
     <dimen name="area_unlock_size_height">404dp</dimen>
 
     <!-- Text common -->
     <dimen name="textNormal">20sp</dimen>
     <dimen name="textSamll">16sp</dimen>
-
-    <!-- Lock Screen -->
-    <dimen name="btnSwitch_W">130dp</dimen>
-    <dimen name="btnSwitch_H">58dp</dimen>
-    <dimen name="logoW">78dp</dimen>
-    <dimen name="logoH">96.5dp</dimen>
-    <dimen name="logo_margin_top">10dp</dimen>
-    <dimen name="clockW">25dp</dimen>
-    <dimen name="clockH">25dp</dimen>
 
     <!-- About Screen -->
 

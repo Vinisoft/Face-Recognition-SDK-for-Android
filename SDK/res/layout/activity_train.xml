@@ -40,9 +40,8 @@
                 android:layout_height="@dimen/train_btn_H"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="10dp"
-                android:background="@drawable/bg_btn_train"
                 android:paddingLeft="5.0dp"
-                android:textColor="#ffffff"
+				android:text="@string/btn_training"
                 android:textSize="@dimen/textNormal" />
         </LinearLayout>
     </FrameLayout>

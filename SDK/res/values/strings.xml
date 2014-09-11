@@ -5,8 +5,6 @@
     <string name="activity_setting_title">Setting</string>
     <string name="activity_training_title">Training</string>
     <string name="date_format" formatted="false">%d-%d-%d（%s）</string>
-    <string name="time_format">HH:mm</string>
-    <string name="unlock">Unlock</string>
     <string name="btn_training">Train</string>
     <string name="btn_clear_faces">Clear face</string>
     <string name="training">Training...</string>
@@ -17,8 +15,6 @@
     <string name="clear_faild">Clear faild!</string>
     <string name="training_not_complete">Training not complete, please try again!</string>
     <string name="pref_prepare_title">Prepare</string>
-    <string name="pref_prepare_password_summary">Alternative login method</string>
-    <string name="pref_prepare_password_title">Set PIN</string>
     <string name="pref_prepare_training_summary">Train to recognize your face</string>
     <string name="pref_prepare_training_title">Training</string>
     <string name="pref_prepare_test_summary">Test recognize your face</string>
@@ -31,9 +27,6 @@
     <string name="pref_level_summary">Balance security and easy of use</string>
 
     <!-- Update 19/05/2014 -->
-    <string name="set_pin_and_training_before_enable">You must set PIN and train before enable function</string>
-    <string name="set_pin_before_enable">You must set PIN before enable function</string>
-    <string name="training_before_enable">You must train before enable function</string>
     <string name="pref_license_title">License</string>
     <string name="pref_license_summary"></string>
     <string name="pref_vote_title"><![CDATA[<b><font color="#ff0000">See application use this SDK</font></b>]]></string>

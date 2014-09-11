@@ -5,8 +5,6 @@
     <string name="activity_setting_title">Cài đặt ứng dụng</string>
     <string name="activity_training_title">Huấn luyện máy</string>
     <string name="date_format" formatted="false">%d-%d-%d（%s）</string>
-    <string name="time_format">HH:mm</string>
-    <string name="unlock">Mở khóa</string>
     <string name="btn_training">Huấn luyện</string>
     <string name="btn_clear_faces">Xóa dữ liệu</string>
     <string name="training">Đang huấn luyện...</string>

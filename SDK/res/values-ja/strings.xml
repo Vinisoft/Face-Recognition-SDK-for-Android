@@ -5,9 +5,7 @@
     <string name="activity_setting_title">設定</string>
     <string name="activity_training_title">顔認識トレーニング</string>
     <string name="date_format" formatted="false">%d-%d-%d（%s）</string>
-    <string name="time_format">HH:mm</string>
     <string name="unlock">アンロック</string>
-    <string name="input_your_pin">PINコード入力</string>
     <string name="btn_add_face">画像追加</string>
     <string name="btn_training">トレーニング</string>
     <string name="btn_clear_faces">データ削除</string>

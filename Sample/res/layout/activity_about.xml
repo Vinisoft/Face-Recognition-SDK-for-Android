@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/idRoot"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ecebeb"
+    android:orientation="vertical"
+    android:paddingBottom="20.0dp"
+    android:paddingTop="10.0dp" >
+
+    <ImageView
+        android:layout_width="@dimen/dialoglogoW"
+        android:layout_height="@dimen/dialoglogoH"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/dialog_logo_margin_top"
+        android:background="@drawable/logo" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dialog_tv1_margin_top"
+        android:gravity="center_horizontal"
+        android:text="COPYRIGHT© VINISOFT"
+        android:textColor="#664979"
+        android:textSize="@dimen/textNormal"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dialog_tv2_margin_top"
+        android:gravity="center_horizontal"
+        android:text="http://vinisoft.com.vn"
+        android:textColor="#274663"
+        android:textSize="@dimen/textSamll" />
+
+</RelativeLayout>
