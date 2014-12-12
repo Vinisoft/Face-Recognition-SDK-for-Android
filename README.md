@@ -7,15 +7,17 @@ SDK will be out of date at the end of each year. I will increase the limit time 
 
 INSTALLATION:
 
-Import Face Recognition SDK and Sample to clipse.
+Import Face Recognition SDK and Sample to eclipse.
 
 Add library project (Face SDK) to Sample.
 
-Clearn and Build for both projects SDK and Sample.
+Clean and Build for both projects SDK and Sample.
 
 ABOUT US:
 
 Please visit our application use Face Recognition with OPENCV ( Opensource Computer Vision):
+
+https://play.google.com/store/apps/details?id=com.vinisoft.facesdk.demo
 
 https://play.google.com/store/apps/details?id=com.vinisoft.opencv.applock.facelock
 
